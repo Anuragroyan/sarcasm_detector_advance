@@ -1,0 +1,8 @@
+assets/
+build/
+.metadata
+.dart_tool
+.idea
+*.onnx
+*.json
+*.txt
