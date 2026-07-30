@@ -52,11 +52,7 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   assets:
-     - assets/onnx/sarcasm_model.onnx
-     - assets/tokenizer/merges.txt
-     - assets/tokenizer/vocab.json
-     - assets/tokenizer/special_tokens_map.json
-     - assets/tokenizer/tokenizer_config.json
+    - lib/tokenizer.dart
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
